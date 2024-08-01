@@ -53,9 +53,11 @@ If you have any suggestions about this repository, please feel free to start a n
 - [ICML24] Learning to Route Among Specialized Experts for Zero-Shot Generalization  [[Paper]](https://arxiv.org/pdf/2402.05859) [[Code]](https://github.com/r-three/phatgoose)
 - Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM [[Paper]](https://arxiv.org/pdf/2403.07816) 
 
-### Test-Time Fusion
+### Logits Fusion
 
 - Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization [[Paper]](https://arxiv.org/pdf/2404.11531) [[Code]](https://github.com/cmavro/PackLLM)
+- [ICLR24] Controlled Text Generation via Language Model Arithmetic [[Paper]](https://arxiv.org/abs/2311.14479) [[Code]](https://github.com/eth-sri/language-model-arithmetic)
+- [ICLR24] An Emulator for Fine-Tuning Large Language Models using Small Language Models [[Paper]](https://arxiv.org/pdf/2310.12962)
 
 
 ### Multi-Task Learning 
