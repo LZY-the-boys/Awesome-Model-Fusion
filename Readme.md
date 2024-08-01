@@ -40,7 +40,7 @@ If you have any suggestions about this repository, please feel free to start a n
 - [ICML24] Localizing Task Information for Improved Model Merging and Compression [[Paper]](https://arxiv.org/abs/2405.07813) [[Code]](https://github.com/nik-dim/tall_masks)
 - EMR-Merging: Tuning-Free High-Performance Model Merging [[Paper]](https://arxiv.org/pdf/2405.17461) [[Code]](https://github.com/harveyhuang18/EMR_Merging)
 
-## Hetogorous Architecture
+### Hetogorous Architecture
 
 - LLM Augmented LLMs: Expanding Capabilities through Composition [[Paper]](https://arxiv.org/abs/2401.02412) [[Code]](https://github.com/lucidrains/CALM-pytorch)
 
@@ -58,6 +58,6 @@ If you have any suggestions about this repository, please feel free to start a n
 - Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization [[Paper]](https://arxiv.org/pdf/2404.11531) [[Code]](https://github.com/cmavro/PackLLM)
 
 
-## Multi-Task Learning 
+### Multi-Task Learning 
 
 - [NIPS23] ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning [[Paper]](https://arxiv.org/abs/2301.12618)
