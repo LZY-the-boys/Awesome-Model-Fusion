@@ -3,7 +3,7 @@
 
 # Model-Fusion Paper: 
 
-This GitHub repository summarizes most recent papers and resources related to the model fusion.
+This GitHub repository summarizes most recent papers and resources related to the model fusion / model merging.
 
 If you have any suggestions about this repository, please feel free to start a new issue or pull requests.
 
