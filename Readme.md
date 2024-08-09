@@ -24,7 +24,8 @@ If you have any suggestions about this repository, please feel free to start a n
 - [ICLR23] Editing Models with Task Arithmetic [[Paper]](https://arxiv.org/abs/2212.04089v3) [[Code]](https://github.com/gortizji/tangent_task_arithmetic)
 - [NIPS23] Composing Parameter-Efficient Modules with Arithmetic Operations [[Paper]](https://arxiv.org/pdf/2306.14870) [[Code]](https://github.com/hkust-nlp/PEM_composition)
 - [NIPS23] Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models [[Paper]](https://arxiv.org/abs/2305.12827) [[Code]](https://github.com/gortizji/tangent_task_arithmetic)
-- [ICLR24] Parameter Efficient Multi-task Model Fusion with Partial Linearization [[Paper]](https://arxiv.org/abs/2310.04742)
+  - [ICLR24] Parameter Efficient Multi-task Model Fusion with Partial Linearization [[Paper]](https://arxiv.org/abs/2310.04742)
+  - Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic
 - [ICLR24] AdaMerging: Adaptive Model Merging for Multi-Task Learning [[Paper]](https://arxiv.org/abs/2310.02575) [[Code]](https://github.com/EnnengYang/AdaMerging)
 - MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation [[Paper]](https://arxiv.org/abs/2406.07529)
 
