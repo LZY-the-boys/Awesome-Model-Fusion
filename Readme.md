@@ -48,6 +48,7 @@ If you have any suggestions about this repository, please feel free to start a n
 
 ### Learning-based Fusion
 
+- [ICML23] Exploring the Benefits of Training Expert Language Models over Instruction Tuning [[Paper]](https://arxiv.org/abs/2302.03202) [[Code]](https://github.com/joeljang/ELM)
 - [ICLR24] FOE: Fusing Models with Complementary Expertise [[Paper]](http://arxiv.org/abs/2310.01542) [[Code]](https://github.com/hwang595/FoE-ICLR2024)
 - [ICLR24] FuseLLM: KNOWLEDGE FUSION OF LARGE LANGUAGE MODELS [[Paper]](https://arxiv.org/pdf/2401.10491) [[Code]](https://github.com/fanqiwan/FuseAI) 
 - [ICML24] Merging Multi-Task Models via Weight-Ensembling Mixture of Experts [[Paper]](https://arxiv.org/abs/2402.00433) [[Code]](https://github.com/tanganke/weight-ensembling_MoE)
